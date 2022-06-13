@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/ishansingh88/europe-hotel-satisfaction-score
+
+Analiza zadwolenia gości z usług hotelowych w Europie
